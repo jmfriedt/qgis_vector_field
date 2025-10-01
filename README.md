@@ -5,7 +5,7 @@ similar points (ablation stakes) collected on a flowing glacier.
 
 Load the text delimited files ``results.qgis2024`` and ``results.qgis2025``, CRS is UTM33N,
 space delimited, with ``X`` and ``Y`` fields for cartesian coordinates and ``N`` for the 
-stake name.
+stake name. The layers were renamed manually as ``cm2024`` and ``cm2025`` to be easier to identify.
 
 ``Processing`` -> ``Toolbox`` -> ``Vector General`` -> ``Join attributes by field value``
 and select the two layers with ``X``, ``Y`` fields collected during different years but a common
