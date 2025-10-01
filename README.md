@@ -1,5 +1,8 @@
 ## Displaying a vector point displacement field using QGIS
 
+The objective is to display a vector field map from successive GNSS measurements of
+similar points (ablation stakes) collected on a flowing glacier.
+
 Load the text delimited files ``results.qgis2024`` and ``results.qgis2025``, CRS is UTM33N,
 space delimited, with ``X`` and ``Y`` fields for cartesian coordinates and ``N`` for the 
 stake name.
