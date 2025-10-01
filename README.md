@@ -1,3 +1,9 @@
+## Displaying a vector point displacement field using QGIS
+
+Load the text delimited files ``results.qgis2024`` and ``results.qgis2025``, CRS is UTM33N,
+space delimited, with ``X`` and ``Y`` fields for cartesian coordinates and ``N`` for the 
+stake name.
+
 ``Processing`` -> ``Toolbox`` -> ``Vector General`` -> ``Join attributes by field value``
 and select the two layers with ``X``, ``Y`` fields collected during different years but a common
 ``N`` name field.
