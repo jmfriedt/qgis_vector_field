@@ -39,7 +39,7 @@ Same for ``v`` with ``"Y2"-"Y"`` using either the equation editor, or in the fre
 
 <img src="2025-10-01-120549_1024x768_scrot.png">
 
-Install plugin ``Vector field layer manager`` found at https://plugins.qgis.org/plugins/VectorFieldRenderer/#plugin-versions (or in QGIS: Plugins -> Install and Manage Plugins and select the appropriate name)
+Install plugin ``Vector field layer manager`` found at https://plugins.qgis.org/plugins/VectorFieldRenderer/ (or in QGIS: Plugins -> Install and Manage Plugins and select the appropriate name)
 
 <img src="2025-10-01-120412_1024x768_scrot.png">
 
