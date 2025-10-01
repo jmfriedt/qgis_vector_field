@@ -13,7 +13,7 @@ and select the two layers with ``X``, ``Y`` fields collected during different ye
 
 <img src="2025-10-01-120103_1024x768_scrot.png">
 
-Four fields will not match, but all others will:
+Four lines will not match (missing measurements in 2025), but all others will:
 
 <img src="2025-10-01-120117_1024x768_scrot.png">
 
